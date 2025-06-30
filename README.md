@@ -107,19 +107,6 @@ The report displays the top 10 products and top 10 customers, delivering valuabl
 It includes shipment information by category and subcategory, enabling detailed product analysis.
 The report intensifies the data analysis by showing the city and day of the week for the top 10 products.
 
-# Model Deployment
-To deploy this model, I published the dashboard [here](https://bit.ly/norwood_sales_product_dashboard) for users to test and give feedback to the team. 
-
-# Future Work
-Some ideas for future work include: 
-1. Sales Forecasting: Implement a sales forecasting system that uses historical sales data from AdventureWorks2022 to predict future sales.
-1. Inventory Management: Create an inventory management module that monitors product stock levels and generates alerts when products run low.
-1. Customer Segmentation: Develop a customer segmentation analysis to group customers based on their purchase behavior, demographics, and other attributes.
-
-
-Please review my full analysis in [my notebook](https://github.com/dataeducator/healthy_heart/blob/main/notebook.ipynb ) or ([my presentation](https://github.com/dataeducator/healthy_heart/blob/main/presentation.pdf )).
-Feel free to contact me __Tenicka Norwood__ at tenicka.norwood@gmail.com if you have more questions.
-
 # Repository Structure
 
 ***
